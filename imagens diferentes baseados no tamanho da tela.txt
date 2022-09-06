@@ -1,0 +1,5 @@
+imagens diferente baseado no tamanho da tela = 
+    <picture>
+        <source media="(max-width: 'numero de pixels maximo'  )" srcset="imagens/'nome do arquivo da img' " type="image/'tipo da img' ">
+        <img src="imagens/g.png" alt="imgaem flexivel">
+    <picture>

@@ -1,0 +1,2 @@
+jpeg: melhor pra compactar
+png: melhor qualidade e o unico com suporte pra trasparencia

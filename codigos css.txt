@@ -1,0 +1,33 @@
+style = dentro das tags acrescenta varias coisas como cor de letra, background etc
+font-family = fonte da letra
+text-align = alinhar o texto
+font-size = tamanho da fonte
+font-weight = negrito
+background-color = cor de fundo
+*{ = configuracaoes globais
+background-image: linear-gradient = degrade
+@chaset "UTF-8"; = codificacao de acentos
+width =  largura
+padding = acolchoamento
+margin = centraliza
+border-radius = arredonda
+box-shadow: 10px 10px 10px = sombra, primeiro parametro e pra baixo, segundo pro lado, terceiro de espalhamento, depois a cor
+text-shadow = o de cima so q com texto
+font-style = italico
+text-decoration = sublinhado etc
+shorthand font = 
+          font: font-style -> font-weight -> font-size -> font-family  (serve pra substituir varios comandos por 1 so
+text-indent: paragrafo
+div:hover = pra quando passar com o mouse em cima
+div > p = um paragrafo dentro da div
+text-decoration = tirar e por underline
+a:visited = como fica depois de visitar o link
+a:active = como fica no momento do clique
+a::before e a::after = antes ou depois de usar o link
+content = adiciona um conteudo
+# = id
+. = class
+: = pseudo-class
+:: = pseudo-element
+> = children
+shorthand = 

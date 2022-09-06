@@ -1,0 +1,3 @@
+css in-line: fica na mesma linha do codigo html
+css interno: fica no head
+css externo: uma pagina nova

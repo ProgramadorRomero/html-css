@@ -1,0 +1,9 @@
+<audio controls>
+        <source src="midia/X2Download.com - Caravan Palace - Lone Digger (128 kbps).mp3" type="audio/mpeg">
+        <source src="midia/X2Download.com - Caravan Palace - Lone Digger (128 kbps).ogg" type="media/ogg">
+        <source src="midia/X2Download.com - Caravan Palace - Lone Digger (128 kbps).wave" type="">
+        <source src="midia/" type="media/wav">
+        <p>Seu navegador nao pode reproduzir esses audios <a href="midia/X2Download.com - Caravan Palace - Lone Digger (128 kbps).mp3">clique aqui</a> para download</p>
+    </audio>
+
+este comando esta basicamente tentando passar o audio por 3 arquivo em ordem e se n conseguir ele ira imprimir a ultima mensagem, que leva a um download alternativo

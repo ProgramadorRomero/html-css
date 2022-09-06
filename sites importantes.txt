@@ -1,0 +1,7 @@
+favicon.io = icones
+unsplash = imagens livres
+emojipedia = codigo dos emojis
+adobe color = paleta de cores
+google fonts = fontes
+dafont = fontes externas especificas
+fontfinder = fontes em imagens

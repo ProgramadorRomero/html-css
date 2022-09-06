@@ -1,0 +1,57 @@
+h1,h2,h3....h6 = titulos e seus niveis
+p = paragrafo
+hr = linha horizontal
+br = quebra de linha
+img = imagem
+&lt; = < (sem marcar tag) 
+&gt; = > (sem marcar tag) 
+<!-- = comentario
+&reg; = marca registrada
+&copy; = copyright
+&trade; = trademark
+&#x"codigo do emoji"; = emoji
+&dollar,&pound,&yen etc = moedas
+link:favicon
+strong = negrito de forma semantica
+b = negrito sem semantica
+cntrl+shift+p = podemos envelopar um trecho
+em = italico de forma semantica
+i = italico sem semantica
+del = texto deletado, palavra marcada com um risco
+ins = texto inserido, palavra sublinhada
+sub = algo subescrito, h2O por exemplo
+sup = algo sobrescrito , x2 + 3 por exemplo
+code = para codigos de outras linguagem, deixa um espacamento unificado para as letras
+pre = exibido da mesma maneira que o texto original foi disposto, inclusive os espacos
+q = citacao, vai por entre aspas
+blockquote = para citacoes maiores
+abbr = para explicar uma abreviacao
+ol = lista ordenada
+li = elemento da lista
+type (dentro da tag ol ou ul mas na ul nao aparece opcoes) = tipo de numeracao pra lista
+start (dentro da tah ol) = que numeracao comeca
+ul = listas nao ordenadas
+dl = lista de definicao, dt = termo, dd = definicao
+a = ancora para um link
+target="_blank" = (usamos esse comando na tag 'a' para abrir uma guia nova ao clicar no link, assim o nosso site continua aberto)
+rel="next", rel="prev" = dentro da tag a para links internos, mostra e prox pagina e a anterior
+rel="external" = dentro da tag a para links externos
+../ = dentro da tag a, mostra que esta em uma pasta anterior
+audio = nome autoexplicativo
+control = dentro da tag audio para adicionar o controle do audio
+loop = dentro da tag audio para loop
+preload = auto pra carregar tudo, deixa o site lento, metadata so o essencial e carrega quando clicar no play(recomendado), none nada
+video = nome autoexplicativo
+width = mudar a largura 
+height = mudar a altura
+control = controle dentro da tag video
+poster = thumbnail do video na tag video
+id = dentro das tags pra diferenciar cada titulo ou paragrafo, usa-se uma #e o nome designado no css
+class = igual o id mas o id so pode usar 1 vez e esse varias
+span = para pegar um trecho e atribuir um class
+border = criar borda
+display = inline e block
+div = uma divisao
+margin = margem entre a borda e a box
+outline = contorno
+

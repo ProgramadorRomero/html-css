@@ -1,0 +1,18 @@
+Podemos criar listas dentro de listas sejam ul ou ol ou misturadas
+ex:
+
+<h2>Times favoritos</h2>
+    <ol>
+        <li>Leste</li>
+        <ol>
+            <li>nets</li>
+            <li>boston</li>
+            <li>knicks</li>
+        </ol>
+        <li>Oeste</li>
+        <ol>
+            <li>Clippers</li>
+            <li>Warriors</li>
+            <li>Rockets</li>
+        </ol>
+    </ol>
